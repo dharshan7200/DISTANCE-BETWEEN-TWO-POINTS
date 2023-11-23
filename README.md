@@ -25,7 +25,8 @@ distance=math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
 print("{:.2f}".format(distance))
 ```
 ### OUTPUT:
-![OUTPUT](/distance.png)
+
+![distance](https://github.com/dharshan7200/DISTANCE-BETWEEN-TWO-POINTS/assets/138850116/df3574ed-ae05-4c39-824c-2bc7670c71f6)
 
 ### RESULT:
 Thus the DISTANCE-BETWEEN-TWO-POINTS is executed successfully.
